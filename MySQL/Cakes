@@ -1,0 +1,12 @@
+Cakes
+
+
+A local bakery creates unique cake sets. Each cake set contains three different cakes.
+Here is the cakes table: 
+
+https://api.sololearn.com/DownloadFile?id=4530
+
+------
+
+select * from cakes order by calories limit 3
+
