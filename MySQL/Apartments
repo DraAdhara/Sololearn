@@ -1,3 +1,0 @@
-SELECT * FROM Apartments
-WHERE price > (SELECT AVG(price) FROM Apartments)
-ORDER BY price;
